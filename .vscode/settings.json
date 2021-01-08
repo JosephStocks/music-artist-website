@@ -1,0 +1,19 @@
+{
+    // "html.format.enable": true,
+    // "html.format.unformatted": "wbr,%",
+
+    // "files.associations": {
+    //     "*.ejs": "ejs"
+    // },
+    // "[ejs]": {
+    //     "editor.formatOnSave": false
+    // },
+    // "emmet.includeLanguages": {
+    //     "ejs": "html"
+    // },
+    "[html]": {
+
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+    },
+}
