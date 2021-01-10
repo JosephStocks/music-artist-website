@@ -3,7 +3,7 @@
     // "html.format.unformatted": "wbr,%",
 
     // "files.associations": {
-    //     "*.ejs": "ejs"
+    //     "*.ejs": "html"
     // },
     // "[ejs]": {
     //     "editor.formatOnSave": false
@@ -16,4 +16,7 @@
         "editor.formatOnSave": true,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
+
+    "css.validate": false,
+    "html.validate.styles": false,
 }

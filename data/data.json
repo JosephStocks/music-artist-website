@@ -1,0 +1,114 @@
+{
+    "albums": [
+        {
+            "name": "Wildflowers",
+            "shortName": "wildflowers",
+            "summary": "Wildflowers is the second solo studio album by American musician Tom Petty, released on November 1, 1994. The album was the first released by Petty after signing a contract with Warner Bros. Records (where he had recorded as part of the Traveling Wilburys) and the first of three albums produced by Rick Rubin. The album was certified 3× platinum in the United States by the Recording Industry Association of America.",
+            "albumCover": "",
+            "trackList": [
+                "Wildflowers",
+                "You Don't Know How It Feels",
+                "Time to Move On",
+                "You Wreck Me",
+                "It's Good to Be King",
+                "Only a Broken Heart",
+                "Honey Bee",
+                "Don't Fade on Me",
+                "Hard on Me",
+                "Cabin Down Below",
+                "To Find a Friend",
+                "A Higher Place",
+                "House in the Woods",
+                "Crawling Back to You",
+                "Wake Up Time"
+            ],
+            "purchaseLink": "",
+            "spotifyLink": "",
+            "youtubeLink": ""
+        },
+        {
+            "name": "Damn the Torpedoes",
+            "shortName": "damntorpedoes",
+            "summary": "Damn the Torpedoes is the third studio album by Tom Petty and the Heartbreakers, released on October 19, 1979. This was the first of three Petty albums originally released by the Backstreet Records label, distributed by MCA Records. It built on the commercial success and critical acclaim of his two previous albums and reached #2 on the Billboard album chart. The album went on to become certified Triple Platinum by the Recording Industry Association of America (RIAA).",
+            "albumCover": "",
+            "trackList": [
+                "Refugee",
+                "Here Comes My Girl",
+                "Even the Losers",
+                "Shadow of a Doubt (A Complex Kid)",
+                "Century City",
+                "Don't Do Me Like That",
+                "You Tell Me",
+                "What Are You Doin' in My Life",
+                "Louisiana Rain"
+            ],
+            "purchaseLink": "",
+            "spotifyLink": "",
+            "youtubeLink": ""
+        },
+        {
+            "name": "Full Moon Fever",
+            "shortName": "fullmoonfever",
+            "summary": "Full Moon Fever is the debut solo studio album by Tom Petty, released on April 24, 1989, by MCA Records. It features contributions from members of his band the Heartbreakers, notably Mike Campbell, as well as Jeff Lynne, Roy Orbison (who died prior to its release), and George Harrison, Petty's bandmates in the Traveling Wilburys. The record shows Petty exploring his musical roots with nods to his influences. The songwriting is mainly collaborations between Petty and Lynne, who was also a producer on the album. Full Moon Fever became a commercial and critical success, peaking at No. 3 on the U.S. Billboard 200 and being certified 5× platinum in the United States and 6× platinum in Canada.",
+            "albumCover": "",
+            "trackList": [
+                "Free Fallin'",
+                "I Won't Back Down",
+                "Love Is a Long Road",
+                "A Face in the Crowd",
+                "Runnin' Down a Dream",
+                "Feel a Whole Lot Better",
+                "Yer So Bad",
+                "Depending on You",
+                "The Apartment Song",
+                "Alright for Now",
+                "A Mind with a Heart of Its Own",
+                "Zombie Zoo"
+            ],
+            "purchaseLink": "",
+            "spotifyLink": "",
+            "youtubeLink": ""
+        },
+        {
+            "name": "Southern Accents",
+            "shortName": "southernaccents",
+            "summary": "Southern Accents is the sixth studio album by Tom Petty and the Heartbreakers, released on March 26, 1985, through MCA Records. The album's lead single, \"Don't Come Around Here No More\", co-written by Dave Stewart of Eurythmics, peaked at number 13 on the Billboard Hot 100. The song \"Southern Accents\" was later covered by Johnny Cash for his Unchained album in 1996.",
+            "albumCover": "",
+            "trackList": [
+                "Rebels",
+                "It Ain't Nothin' to Me",
+                "Don't Come Around Here No More",
+                "Southern Accents",
+                "Make It Better (Forget About Me)",
+                "Spike",
+                "Dogs on the Run",
+                "Mary's New Car",
+                "The Best of Everything"
+            ],
+            "purchaseLink": "",
+            "spotifyLink": "",
+            "youtubeLink": ""
+        },
+        {
+            "name": "Hard Promises",
+            "shortName": "hardpromises",
+            "summary": "Hard Promises is the fourth studio album by Tom Petty and the Heartbreakers released on May 5, 1981 on Backstreet Records. This was the second Tom Petty album on the Backstreet Records label. The album's release was delayed while Petty and his distributor MCA Records argued about the list price. The album was slated to be the next MCA release with the new list price of $9.98. This so-called \"superstar pricing\" was $1.00 more than the usual list price of $8.98. Petty voiced his objections to the price hike in the press and the issue became a popular cause among music fans. Non-delivery of the album or naming it Eight Ninety-Eight were considered, but eventually MCA decided against the price increase.",
+            "albumCover": "",
+            "trackList": [
+                "The Waiting",
+                "A Woman in Love (It's Not Me)",
+                "Nightwatchman",
+                "Something Big",
+                "Kings Road",
+                "Letting You Go",
+                "A Thing About You",
+                "Insider",
+                "The Criminal Kind",
+                "You Can Still Change Your Mind"
+            ],
+            "purchaseLink": "",
+            "spotifyLink": "",
+            "youtubeLink": ""
+        }
+    ]
+}
