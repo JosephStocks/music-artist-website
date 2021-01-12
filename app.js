@@ -9,8 +9,9 @@ app.set("view engine", "ejs");
 app.use(express.static("public"));
 
 //routes
-app.use(require("./routes"));
+app.use(require("./routes/"));
 app.use(require("./routes/forum"));
+app.use(require("./routes/api"));
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}..`);

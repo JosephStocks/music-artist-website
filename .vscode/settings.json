@@ -19,4 +19,11 @@
 
     "css.validate": false,
     "html.validate.styles": false,
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts",
+        "**/*.json"
+    ]
 }
