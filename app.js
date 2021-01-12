@@ -10,6 +10,7 @@ app.use(express.static("public"));
 
 //routes
 app.use(require("./routes"));
+app.use(require("./routes/forum"));
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}..`);

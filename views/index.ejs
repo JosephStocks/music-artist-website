@@ -17,23 +17,19 @@
   <nav class="fixed inset-x-0 top-0 bg-gray-800 text-white">
     <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
-        <div id="leftNav">
-          <div id="logo" class="font-logo text-2xl">
-            Tom Petty
-          </div>
+        <div id="logo" class="font-logo text-sm sm:text-2xl ml-2">
+          Tom Petty
         </div>
-        <div id="rightNav">
-          <ul class="flex flex-row space-x-2 items-center text-lg">
-            <li class="active-page flex items-center h-10 p-5 rounded-md hover:bg-gray-700"><a href="#">Home</a></li>
-            <li class="flex items-center h-10 p-5 rounded hover:bg-gray-700"><a href="#">Albums</a></li>
-            <li class="flex items-center h-10 p-5 rounded hover:bg-gray-700"><a href="#">Forum</a></li>
-          </ul>
-        </div>
+        <ul class="flex flex-row space-x-1 sm:space-x-2 items-center text-lg">
+          <li class="active-page flex items-center h-10 px-2 sm:px-5 rounded-md hover:bg-gray-700"><a href="#">Home</a></li>
+          <li class="flex items-center h-10 px-2 sm:px-5 rounded hover:bg-gray-700"><a href="/albums">Albums</a></li>
+          <li class="flex items-center h-10 px-2 sm:px-5 rounded hover:bg-gray-700"><a href="/forum">Forum</a></li>
+        </ul>
       </div>
     </div>
   </nav>
-  
-  <div id="hero-landing-image" class="min-h-screen bg-cover" style="background-image: url(/images/wallpapers/wallpaper5.jpg)">
+  <div class="flex justify-center mt-16 h-screen w-auto">
+    <img class="object-cover" src="/images/wallpapers/wallpaper5.jpg" alt="">
   </div>
   <div class="p-10 text-white bg-gray-800 text-2xl tracking-normal">
     <div class="max-w-7xl mx-auto space-y-2 font-serif">
